@@ -1,5 +1,6 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  05-new-article-creation
 =======
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d4/05-new-article-creation.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/05-new-article-creation)
 
 Now's a good time to recap what we've covered so far. Then, we'll build an article creation form for the blog, so authors have a nice way to write new posts.
 
