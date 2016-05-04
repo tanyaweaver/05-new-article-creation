@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  05-new-article-creation
+![CF](https://i.imgur.com/7v5ASc8.png)  lab 05: New Article Creation
 =======
 [![Build Status](https://travis-ci.org/codefellows-seattle-301d4/05-new-article-creation.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/05-new-article-creation)
 
