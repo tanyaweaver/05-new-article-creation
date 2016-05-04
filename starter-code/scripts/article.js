@@ -20,13 +20,13 @@ Article.prototype.toHtml = function(scriptTemplateId) {
   return template(this);
 };
 
-  ourLocalData.sort(function(a,b) {
-    return (new Date(b.publishedOn)) - (new Date(a.publishedOn));
-  });
+ourLocalData.sort(function(a,b) {
+  return (new Date(b.publishedOn)) - (new Date(a.publishedOn));
+});
 
-  ourLocalData.forEach(function(ele) {
-    articles.push(new Article(ele));
-  });
+ourLocalData.forEach(function(ele) {
+  articles.push(new Article(ele));
+});
 
 articles.forEach(function(a) {
   $('#articles').append(a.toHtml('#article-template'));
